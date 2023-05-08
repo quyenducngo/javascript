@@ -1,2 +1,3 @@
 # javascript
-learning javascript
+
+Learning JavaScript 💡
